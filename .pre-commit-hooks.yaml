@@ -1,6 +1,6 @@
 - id: dotenv-linter
   name: Dotenv Linter
-  description: ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+  description: Lightning-fast linter for .env files. Written in Rust
   entry: dotenv-linter
   language: rust
   types: [text]
