@@ -4,4 +4,4 @@
   entry: dotenv-linter
   language: rust
   types: [text]
-  files: '\.env'
+  files: '\.env*'
